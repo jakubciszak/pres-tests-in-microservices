@@ -1,0 +1,22 @@
+# Praktyczne podejście do testów w środowisku mikroserwisów
+- ## Środowisko
+- ## Testy jednostkowe
+  - ### Czym jest jednostka
+  - ### Szkoła Londyńśka vs Szkoła z Detroit
+  - ### W jakich częściach jakie testy
+  - ### Podsumowanie
+- ## Testy integracyjne
+  - ### Zależności zarządzane/niezarządzane
+  - ### Więcej kontroli - Docker
+  - ### Mocki przez vhosty
+  - ### Kontrakty
+    - #### Provider-driven
+    - #### Consumer-driven
+  - ### Podsumowanie
+- ## Testy E2E
+  - ### Środowisko
+  - ### Narządzia
+  - ### Codeception
+  - ### Podsumowanie
+- ## Podsumowanie całości/zakończenie
+
